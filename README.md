@@ -1,5 +1,15 @@
 # simon-says
 A fun browser-based Simon Says game to test your memory skills.
+🚀 Project Overview
+Project Name: Simon Says Game
+Batch: Apna College Delta Batch
+Objective: To build a fun and interactive memory game using web development concepts.
+Features:
+1.Random color sequences generated each round
+2.Interactive user input through button clicks
+3.Level-based difficulty progression
+4.Responsive design
+
 # 🎮 Simple Simon Says Game
 
 A fun and interactive **Simon Says** memory game built with **HTML**, **CSS**, and **JavaScript**.

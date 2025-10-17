@@ -31,7 +31,7 @@ Test your memory by repeating the growing sequence of colors as the game progres
 1. Clone or download this repository:
 
    ```bash
-   git clone https://github.com/your-username/simon-says-game.git
+   git clone https://github.com/abhi30102005/simon-says.git
    ```
 2. Open the `index.html` file in your browser.
 3. Start playing and see how many levels you can complete!

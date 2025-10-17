@@ -1,38 +1,41 @@
-# simon-says
-A fun browser-based Simon Says game to test your memory skills.
-🚀 Project Overview
-Project Name: Simon Says Game
-Batch: Apna College Delta Batch
-Objective: To build a fun and interactive memory game using web development concepts.
-Features:
-1.Random color sequences generated each round
-2.Interactive user input through button clicks
-3.Level-based difficulty progression
-4.Responsive design
+# 🎮 Simon Says Game
 
-# 🎮 Simple Simon Says Game
+A fun and interactive **memory-based Simon Says game** built using **HTML**, **CSS**, and **JavaScript**.
+This project is part of the **Apna College Delta Batch**, showcasing core web development concepts like DOM manipulation, event handling, and responsive design.
 
-A fun and interactive **Simon Says** memory game built with **HTML**, **CSS**, and **JavaScript**.
-Test your memory by repeating the growing sequence of colors as the game progresses!
+---
+
+## 🚀 Project Overview
+
+**Project Name:** Simon Says Game
+**Batch:** Apna College Sigma Batch
+**Objective:** To build a fun and interactive memory game using web development concepts.
+
+### 🧩 Features
+
+* 🎨 Random color sequences generated each round
+* 🖱️ Interactive user input through button clicks
+* 📈 Level-based difficulty progression
+* 📱 Responsive and user-friendly design
 
 ---
 
 ## 🕹️ How to Play
 
-1. Press any key (or click the start button) to begin the game.
-2. Watch carefully — the game will show you a sequence of colors.
-3. Repeat the same sequence by clicking the buttons in the correct order.
-4. Each round, the sequence gets longer and faster!
-5. If you click the wrong color, the game ends and your score (level reached) is shown.
+1. Press any key or click the **Start** button to begin.
+2. Watch closely as the game flashes a sequence of colors.
+3. Repeat the sequence by clicking the same color buttons in the correct order.
+4. Each new round adds one more color to the sequence.
+5. A wrong click ends the game and displays your final **score** (the level you reached).
 
 ---
 
-## 📊 Features
+## 📊 Game Features
 
-* Displays the **current level** as you progress.
-* Tracks and shows your **highest score**.
-* Smooth color and sound animations for better gameplay.
-* Simple and responsive UI built using pure HTML, CSS, and JavaScript.
+* Displays the **current level** during gameplay.
+* Keeps track of your **highest score**.
+* Smooth animations and sounds for each button press.
+* Restart easily after a wrong move.
 
 ---
 
@@ -44,35 +47,36 @@ Test your memory by repeating the growing sequence of colors as the game progres
    git clone https://github.com/abhi30102005/simon-says.git
    ```
 2. Open the `index.html` file in your browser.
-3. Start playing and see how many levels you can complete!
+3. Start the game and test your memory skills!
 
 ---
 
-## 🧩 Technologies Used
+## 🧠 Technologies Used
 
-* **HTML5** – Structure of the game
-* **CSS** – Styling and animations
+* **HTML5** – Structure of the web page
+* **CSS3** – Styling and responsive layout
 * **JavaScript (Vanilla JS)** – Game logic and interactivity
 
 ---
 
 ## 🏆 Scoring and Levels
 
-* Each successful round increases your **level** by 1.
-* Your **score** equals the **highest level** you reach.
-* A wrong move resets the game, but your **high score** is remembered (optional feature).
+* Each correct sequence completion = **Next Level**
+* **Score = Current Level**
+* Game resets upon an incorrect click, showing your **final score**
 
 ---
-
 
 ## 💡 Future Improvements
 
-* Add background music or sound effects toggle
+* Add background music and sound toggles
 * Add difficulty modes (Easy, Medium, Hard)
-* Display leaderboard using local storage
+* Store high scores using local storage
 
 ---
 
-### 👨‍💻 Author
+## 👨‍💻 Author
 
-Created with ❤️ by [Abhishek Kumar Yadav]
+Created with ❤️ by **[Abhishek Kumar Yadav]**
+Part of **Apna College Sigma Batch**
+
